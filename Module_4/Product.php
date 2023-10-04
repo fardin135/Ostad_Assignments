@@ -1,9 +1,7 @@
 <?php
 class Product
 {
-    public $id;
-    public $name;
-    public $price;
+    public $id, $name, $price;
 
     public function __construct($id, $name, $price)
     {
