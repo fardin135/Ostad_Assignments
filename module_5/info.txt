@@ -1,0 +1,4 @@
+Fardin, admin@gmail.com, admin123, admin
+Faiaz, manager@gmail.com, manager123, manager
+Khan, user@gmail.com, user123, user
+fardinfaiaz5@gmail.com, fardinfaiaz5@gmail.com, asd, user
